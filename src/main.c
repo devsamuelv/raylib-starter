@@ -8,7 +8,7 @@ int main(void)
     {
         BeginDrawing();
         ClearBackground(RAYWHITE);
-        DrawText("first window", 190, 200, 90, LIGHTGRAY);
+        DrawText("Linux Raylib Template For Vscode", 190, 200, 90, LIGHTGRAY);
         EndDrawing();
     }
 
